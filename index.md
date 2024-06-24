@@ -1,5 +1,7 @@
 # Preview
-
+Changed the title and added an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Changed the title and added an image
+``` javascript
+var myVar = "Hello, world!";
+```
